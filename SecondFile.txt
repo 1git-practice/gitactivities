@@ -1,1 +1,9 @@
+
 confusion hi confusion h
+For reflog testing
+added a line 1
+New line
+merged
+
+
+
