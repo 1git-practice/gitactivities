@@ -1,4 +1,4 @@
 For reflog testing
 added a line 1
-Next line
+New line
 
